@@ -1,5 +1,6 @@
 #include "PhoneticFinder.hpp"
 #include <iostream>
+#include <string>
 #include <stdexcept>
 
 namespace phonetic {
